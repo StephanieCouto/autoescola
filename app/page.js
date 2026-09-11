@@ -108,7 +108,7 @@ export default function Home() {
           <div className="map-copy">
             <span className="eyebrow dark">Visite a gente</span>
             <h2>Localização</h2>
-            <p>Encontre a Auto Escola Catarina e venha conhecer nossa estrutura.</p>
+            <p>Encontre a Auto Escola Catarina e venha conhecer nossa estrutura</p>
             <a className="btn btn-primary" href={site.whatsappLink} target="_blank" rel="noreferrer">Falar pelo WhatsApp</a>
           </div>
           <iframe

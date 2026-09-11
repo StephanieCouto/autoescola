@@ -98,7 +98,7 @@ export default function Home() {
             <div className="section-heading">
               <span className="eyebrow dark">Experiências reais</span>
               <h2>Depoimentos</h2>
-              <p>Veja o que dizem alguns de nossos alunos.</p>
+              <p>Veja o que dizem alguns de nossos alunos</p>
             </div>
             <Testimonials />
           </div>
